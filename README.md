@@ -3,7 +3,7 @@
 **AI Workflow Automation Specialist (n8n, Docker, Telegram/WA Bots) · Full-Stack Mobile/Web Builder · Python/Playwright Automation**
 
 📍 Yogyakarta, Indonesia (GMT+7 · Available for **Global Remote** & **B2B Automation Projects**)  
-🌐 Portfolio & Services: **[hidantec.github.io](https://hidantec.github.io)** · 💬 WhatsApp: **[+62 812-2190-0326](https://wa.me/6281221900326)** · ✉️ `hidan.tec94@gmail.com`
+🌐 Portfolio & Services: **[hidantec.github.io](https://hidantec.github.io)** · 🛒 Pro Kits & Store: **[lynk.id/tecers](https://lynk.id/tecers)** · 💬 WhatsApp: **[+62 812-2190-0326](https://wa.me/6281221900326)** · ✉️ `hidan.tec94@gmail.com`
 
 ---
 
